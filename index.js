@@ -1,3 +1,5 @@
+// Based on https://github.com/Raynos/console-browserify
+
 var slice = Array.prototype.slice
 var console = {};
 var times = {}
