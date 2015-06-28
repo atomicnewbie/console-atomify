@@ -1,11 +1,25 @@
 {
   "name": "console-atomify",
   "version": "1.0.0",
-  "description": "",
+  "description": "A version of the node console module that works with the Atomic Game Engine",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "atomicnewbie",
-  "license": "ISC"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://atomicnewbie@github.com/atomicnewbie/console-atomify.git"
+  },
+  "keywords": [
+    "atomic",
+    "game",
+    "engine",
+    "console"
+  ],
+  "bugs": {
+    "url": "https://github.com/atomicnewbie/console-atomify/issues"
+  },
+  "homepage": "https://github.com/atomicnewbie/console-atomify#readme"
 }
